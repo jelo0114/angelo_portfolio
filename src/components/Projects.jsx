@@ -88,7 +88,7 @@ function Projects() {
   return (
     <section id="projects" className="py-24 px-6 bg-bg-alt">
       <div className="max-w-6xl mx-auto">
-        <p className="font-mono text-accent text-sm mb-2">// projects</p>
+        <p className="font-mono text-accent text-sm mb-2"></p>
         <h2 className="font-display font-bold text-3xl sm:text-4xl mb-12">
           Selected Work
         </h2>
