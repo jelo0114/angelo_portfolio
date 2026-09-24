@@ -1,4 +1,4 @@
-// Easy to edit timeline data
+
 const TIMELINE = [
   {
     year: "2026 — Present",
