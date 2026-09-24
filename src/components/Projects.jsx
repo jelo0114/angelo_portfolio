@@ -1,6 +1,7 @@
 import { FiGithub, FiExternalLink } from "react-icons/fi";
 import casaCloudsLogo from "../assets/CASA CLOUDS LOGO.png";
 import jbr7Logo from "../assets/JBR7 LOGO.jpg";
+import handbookLogo from "../assets/hanbook.png"
 
 
 const PROJECTS = [
@@ -9,9 +10,9 @@ const PROJECTS = [
     title: "E-Handbook",
     description:
       "A digital handbook app that gives users quick, organized access to guidelines and information on their phone.",
-    image: "https://e-handbook-website.vercel.app/favicon.ico", // replace with a screenshot or logo
+    image: handbook, // replace with a screenshot or logo
     technologies: ["Android Studio", "Kotlin", "XML", "Firebase"],
-    github: "https://github.com/jelo0114/your-repo-name", // replace with your repo link
+    github: "https://github.com/alchristianfrancisco13-bit/Student-E-HandBook", // replace with your repo link
     demo: "https://e-handbook-website.vercel.app/",
   },
   {
