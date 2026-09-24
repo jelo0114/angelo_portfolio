@@ -37,7 +37,7 @@ const PROJECTS = [
     title: "iManage",
     description:
       "A professional business website built to showcase services, attorneys, and case consultations.",
-    image: "https://noohgpmjyowtrmymvydp.supabase.co/storage/v1/object/public/system-media/logo.png",
+    image: "	https://www.imanage.site/system-media/logo.png",
     technologies: ["Vite React", "Tailwind CSS", "PostgreSQL", "SupaBase"],
     github: "https://github.com/AngelineFloresDeGuzman/iManage",
     demo: "https://imanage-sdo.vercel.app/",
