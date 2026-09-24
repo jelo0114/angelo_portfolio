@@ -1,7 +1,7 @@
 import { FiGithub, FiExternalLink } from "react-icons/fi";
 import casaCloudsLogo from "../assets/CASA CLOUDS LOGO.png";
 import jbr7Logo from "../assets/JBR7 LOGO.jpg";
-import handbookLogo from "../assets/hanbook.html"
+import handbookLogo from "../assets/studenthandbook.png"
 
 
 const PROJECTS = [
@@ -37,7 +37,7 @@ const PROJECTS = [
     title: "iManage",
     description:
       "A professional business website built to showcase services, attorneys, and case consultations.",
-    image: "	https://www.imanage.site/system-media/logo.png",
+    image: "https://www.imanage.site/system-media/logo.png",
     technologies: ["Vite React", "Tailwind CSS", "PostgreSQL", "SupaBase"],
     github: "https://github.com/AngelineFloresDeGuzman/iManage",
     demo: "https://imanage-sdo.vercel.app/",
