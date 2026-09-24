@@ -1,7 +1,7 @@
 import { FiGithub, FiExternalLink } from "react-icons/fi";
 import casaCloudsLogo from "../assets/CASA CLOUDS LOGO.png";
 import jbr7Logo from "../assets/JBR7 LOGO.jpg";
-import handbookLogo from "../assets/hanbook.png"
+import handbookLogo from "../assets/handbook.png"
 
 
 const PROJECTS = [
